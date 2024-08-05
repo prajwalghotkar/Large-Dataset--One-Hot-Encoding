@@ -1,0 +1,11 @@
+Row Labels,Count of INJURY_SEVERITY
+Died_Prior_to_Accident,6
+Fatal_Injury,28741
+Incapaciting_Injury,10083
+Injured_Severity_Unknown,231
+No_Injury,12561
+Nonincapaciting_Evident_Injury,9285
+Possible_Injury,5845
+Unknown,560
+(blank),
+Grand Total,67312
